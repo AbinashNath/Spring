@@ -1,0 +1,5 @@
+Q. What is spring boot starter?
+Spring boot starters are dependency descriptors, which contains set of various dependecies. 
+It reduces the overhead of mananaging many dependecies, No need to keep track of versions and compatibility.
+Eg: spring-boot-starter-web	-> 
+Starter for building web, including RESTful, applications using Spring MVC. Uses Tomcat as the default embedded container.
