@@ -31,3 +31,6 @@ Rather than continuously checking on your resources, you can use an event-driven
 4. Integration of heterogeneous systems
 If you have systems running on different stacks, you can use an event-driven architecture to share information between them without coupling. The event router establishes indirection and interoperability among the systems, so they can exchange messages and data while remaining agnostic.
 
+Q. Type of isolation level?
+Read uncommited, read commited, repeatable read, serializable
+
